@@ -1,1 +1,0 @@
-# pe25-x-virto-basic-config-r1
